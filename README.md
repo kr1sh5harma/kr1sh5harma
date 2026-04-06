@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pre-Final Year Engineering Undergraduate at GGSIPU
+# CS Engineering Undergraduate at GGSIPU
 ### Problem Solving • Full-Stack Development • Web Design
 
 <p align="center">
