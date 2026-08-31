@@ -41,6 +41,6 @@
 <br/>
 <br/>
 
-
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=h4rsh_5harma&animated=true&theme=github-dark" alt="LeetCode Badges" />
 
 </div>
